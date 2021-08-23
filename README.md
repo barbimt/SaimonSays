@@ -4,4 +4,5 @@ A simple version of the popular game Saimon Says using HTML, CSS, Javascript and
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+* ##### [Simon Says Demo](https://barbimt.github.io/SaimonSays/)
+
